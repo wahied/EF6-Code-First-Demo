@@ -4,6 +4,7 @@ namespace EF6CodeFirstDemo
 {
     public class Course
     {
+        //YES
         public Course()
         {
             this.Students = new HashSet<Student>();
