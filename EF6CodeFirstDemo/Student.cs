@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+// Yes
 namespace EF6CodeFirstDemo
 {
     public class Student
